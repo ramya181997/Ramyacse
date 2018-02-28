@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class large
+class great
 {
 public static void main(String args[])
 {
@@ -11,15 +11,15 @@ b=sc.nextInt();
 c=sc.nextInt();
 if(a>b&&a>c)
 {
-System.out.println(a is:+Greater);
+System.out.println("a is:Greater");
 }
 else if(b>a&&b>c)
 {
-System.out.println(b is:Greater);
+System.out.println("b is:Greater");
 }
 else if(c>b&&c>a)
 {
-System.out.println(c is:+greater);
+System.out.println("c is:greater");
 }
 }
 }
