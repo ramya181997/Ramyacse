@@ -4,7 +4,7 @@ class large
 {
 public static void main(String args[])
 {
-Scanner sc=new Scanner(System.in)
+Scanner sc=new Scanner(System.in);
 int a,b,c;
 a=sc.nextInt();
 b=sc.nextInt();
@@ -19,7 +19,7 @@ System.out.println(b is:+greater);
 }
 else if((b>c)||(c>b))
 {
-System.out.println(c is:+ggreater);
+System.out.println(c is:+greater);
 }
 else
 {
